@@ -11,7 +11,7 @@ function makeArray(a, b) {
 			list.push(i);
 		}
 	}
+	console.log(list);
 }
 
 makeArray(-4, 2);
-console.log(list);
